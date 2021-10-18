@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326400221765",
+    "project_id": "assessmenttwo-4c1d9",
+    "storage_bucket": "assessmenttwo-4c1d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326400221765:android:3bd47c5cc2ecbb6675f92c",
+        "android_client_info": {
+          "package_name": "comp5216.sydney.edu.au.assessmenttwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326400221765-mdak28gu8rmfgptb3shk3k6d1bp04vdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiotgdrAfntZka4SaGJBqqS5XvtMVWpgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326400221765-mdak28gu8rmfgptb3shk3k6d1bp04vdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
